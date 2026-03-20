@@ -1,0 +1,1 @@
+# Documentando-o-Dom-nio-do-Terminal
